@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5dba6a8f870bdfc4c8a03985e91d9dbd, type: 3}
+  m_Name: PlayerConfig
+  m_EditorClassIdentifier: 
+  sensivity: 100
+  fireAudioClip: {fileID: 8300000, guid: 0addcc409a57b4a43b86a3d2310ac5b4, type: 3}
+  shootDelay: 0.5
+  shootRange: 100
+  gameStartDelay: 3
+  gameDuration: 30
